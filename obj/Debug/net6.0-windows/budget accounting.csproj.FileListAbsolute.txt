@@ -1,0 +1,23 @@
+C:\Users\KS\source\repos\budget accounting\budget accounting\bin\Debug\net6.0-windows\budget accounting.exe
+C:\Users\KS\source\repos\budget accounting\budget accounting\bin\Debug\net6.0-windows\budget accounting.deps.json
+C:\Users\KS\source\repos\budget accounting\budget accounting\bin\Debug\net6.0-windows\budget accounting.runtimeconfig.json
+C:\Users\KS\source\repos\budget accounting\budget accounting\bin\Debug\net6.0-windows\budget accounting.dll
+C:\Users\KS\source\repos\budget accounting\budget accounting\bin\Debug\net6.0-windows\budget accounting.pdb
+C:\Users\KS\source\repos\budget accounting\budget accounting\obj\Debug\net6.0-windows\budget accounting.csproj.AssemblyReference.cache
+C:\Users\KS\source\repos\budget accounting\budget accounting\obj\Debug\net6.0-windows\DobavTip.g.cs
+C:\Users\KS\source\repos\budget accounting\budget accounting\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\KS\source\repos\budget accounting\budget accounting\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\KS\source\repos\budget accounting\budget accounting\obj\Debug\net6.0-windows\budget accounting_MarkupCompile.cache
+C:\Users\KS\source\repos\budget accounting\budget accounting\obj\Debug\net6.0-windows\budget accounting_MarkupCompile.lref
+C:\Users\KS\source\repos\budget accounting\budget accounting\obj\Debug\net6.0-windows\DobavTip.baml
+C:\Users\KS\source\repos\budget accounting\budget accounting\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\KS\source\repos\budget accounting\budget accounting\obj\Debug\net6.0-windows\budget accounting.g.resources
+C:\Users\KS\source\repos\budget accounting\budget accounting\obj\Debug\net6.0-windows\budget accounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KS\source\repos\budget accounting\budget accounting\obj\Debug\net6.0-windows\budget accounting.AssemblyInfoInputs.cache
+C:\Users\KS\source\repos\budget accounting\budget accounting\obj\Debug\net6.0-windows\budget accounting.AssemblyInfo.cs
+C:\Users\KS\source\repos\budget accounting\budget accounting\obj\Debug\net6.0-windows\budget accounting.csproj.CoreCompileInputs.cache
+C:\Users\KS\source\repos\budget accounting\budget accounting\obj\Debug\net6.0-windows\budget accounting.dll
+C:\Users\KS\source\repos\budget accounting\budget accounting\obj\Debug\net6.0-windows\refint\budget accounting.dll
+C:\Users\KS\source\repos\budget accounting\budget accounting\obj\Debug\net6.0-windows\budget accounting.pdb
+C:\Users\KS\source\repos\budget accounting\budget accounting\obj\Debug\net6.0-windows\budget accounting.genruntimeconfig.cache
+C:\Users\KS\source\repos\budget accounting\budget accounting\obj\Debug\net6.0-windows\ref\budget accounting.dll

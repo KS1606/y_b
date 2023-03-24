@@ -1,0 +1,22 @@
+﻿<Window x:Class="budget_accounting.DobavTip"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:budget_accounting"
+        mc:Ignorable="d"
+         Title="DobavTip" Height="130" Width="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="Введите тип добавляемой записи." Grid.Row="0" HorizontalAlignment="Center" FontFamily="Gabriola" FontSize="20"/>
+        <TextBox x:Name="Name" TextWrapping="Wrap" Text="" Grid.Row="1" FontFamily="Gabriola" FontSize="20"/>
+        <Button x:Name="DobavZap" Content="Добавить новый тип" Grid.Row="2" FontFamily="Gabriola" FontSize="20" Click="DobavZap_Click"/>
+    </Grid>
+</Window>
